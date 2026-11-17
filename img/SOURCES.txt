@@ -1,0 +1,63 @@
+Image sources and licenses for the line striping and sealcoating lead site.
+All photos were downloaded locally. None were taken from competitor sites.
+
+hero.jpg
+  Aerial View of Empty Parking Lot with Markings
+  Photographer: Giant Asparagus
+  Source: https://www.pexels.com/photo/aerial-view-of-empty-parking-lot-with-markings-35691103/
+  License: Pexels License (free to use, including commercially; no attribution required)
+
+striping.jpg
+  Empty Parking Lot with Defined White Lines
+  Photographer: Jan van der Wolf
+  Source: https://www.pexels.com/photo/empty-parking-lot-with-defined-white-lines-33966251/
+  License: Pexels License
+
+sealcoat.jpg
+  Black Wet and Gritty Asphalt Texture
+  Photographer: Wallace Chuck
+  Source: https://www.pexels.com/photo/black-wet-and-gritty-asphalt-texture-17024747/
+  License: Pexels License
+  Note: Used as a dark asphalt surface image, not as a photo of a specific local job.
+
+cracks.jpg
+  Worn cracked asphalt pavement
+  Photographer: John Harvey
+  Source page: https://commons.wikimedia.org/wiki/File:Worn_cracked_asphalt_pavement.jpg
+  Direct image: https://upload.wikimedia.org/wikipedia/commons/8/8e/Worn_cracked_asphalt_pavement.jpg
+  License: Public domain
+
+morgantown.jpg
+  Morgantown, West Virginia (2023), skyline from a hill
+  Author: WeaponizingArchitecture (Wikimedia user 636Buster)
+  Source page: https://commons.wikimedia.org/wiki/File:Morgantown,_West_Virginia_(2023).jpg
+  Direct image: https://upload.wikimedia.org/wikipedia/commons/9/94/Morgantown%2C_West_Virginia_%282023%29.jpg
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+  Attribution required. Visible credit is included on the Morgantown page and the home town card.
+
+fairmont.jpg
+  Fairmont, West Virginia (2023), skyline from across the Monongahela River
+  Author: WeaponizingArchitecture (Wikimedia user 636Buster)
+  Source page: https://commons.wikimedia.org/wiki/File:Fairmont,_West_Virginia_(2023).jpg
+  Direct image: https://upload.wikimedia.org/wikipedia/commons/9/98/Fairmont%2C_West_Virginia_%282023%29.jpg
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+  Attribution required. Visible credit is included on the Fairmont page and the home town card.
+
+clarksburg.jpg
+  Clarksburg, West Virginia (2023), downtown skyline
+  Author: WeaponizingArchitecture (Wikimedia user 636Buster)
+  Source page: https://commons.wikimedia.org/wiki/File:Clarksburg,_West_Virginia_(2023).jpg
+  Direct image: https://upload.wikimedia.org/wikipedia/commons/7/70/Clarksburg%2C_West_Virginia_%282023%29.jpg
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+  Attribution required. Visible credit is included on the Clarksburg page and the home town card.
+
+bridgeport.jpg
+  Bridgeport Lamp Chimney Co. bowstring arch bridge over Simpson Creek, Harrison County, WV
+  Author: KLOTZPLATE
+  Source page: https://commons.wikimedia.org/wiki/File:BRIDGEPORT_LAMP_CHIMNEY_CO,_BOWSTRING_COMPLETE_ARCH_BRIDGE._HARRISON_COUNTY,_WV.jpg
+  Direct image: https://upload.wikimedia.org/wikipedia/commons/7/72/BRIDGEPORT_LAMP_CHIMNEY_CO%2C_BOWSTRING_COMPLETE_ARCH_BRIDGE._HARRISON_COUNTY%2C_WV.jpg
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+  Attribution required. Visible credit is included on the Bridgeport page and the home town card.
+
+Logos and favicons
+  The NuLimitz wordmark, favicon, apple-touch-icon, and icon-512 files were copied from the restyled lead-site brand set used on the other NuLimitz lead pages.
